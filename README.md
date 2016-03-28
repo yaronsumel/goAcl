@@ -1,5 +1,5 @@
 # goAcl
-goAcl is simple application control list (ACl) package, provides basic ACL features in order to control and manage roles and resources in your app.
+goAcl is simple access control list (ACL) package, provides basic ACL features in order to control and manage roles and resources in your app.
 
 
 ## Install
