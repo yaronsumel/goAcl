@@ -1,4 +1,4 @@
-package acl
+package goAcl
 
 type role struct {
 	name      string

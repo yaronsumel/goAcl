@@ -9,7 +9,7 @@ goAcl is simple application control list (ACl) package, provides basic ACL featu
 import and create new goAcl instance
 ```go
 import "github.com/yaronsumel/goAcl"
-acl := acl.NewAcl()
+acl := goAcl.NewAcl()
 ```
 
 ## Roles

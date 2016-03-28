@@ -1,4 +1,4 @@
-package acl
+package goAcl
 
 type resource struct {
 	name   string

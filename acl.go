@@ -1,4 +1,4 @@
-package acl
+package goAcl
 
 type Acl struct {
 	roles     roles
