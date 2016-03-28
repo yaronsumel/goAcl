@@ -1,4 +1,4 @@
-# goAcl
+# goAcl[![Build Status](https://travis-ci.org/yaronsumel/goAcl.svg?branch=master)](https://travis-ci.org/yaronsumel/goAcl)
 goAcl is simple access control list (ACL) package, provides basic ACL features in order to control and manage roles and resources in your app.
 
 
